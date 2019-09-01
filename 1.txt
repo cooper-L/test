@@ -2,8 +2,7 @@ dev1
 2
 3
 4
-<<<<<<< Updated upstream
 错误修改成功
-=======
-错误
->>>>>>> Stashed changes
+5
+5
+5
