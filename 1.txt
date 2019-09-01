@@ -6,12 +6,4 @@ dev1
 5
 5
 5
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-错误二修改成功
-=======
-错误二
->>>>>>> Stashed changes
-=======
-错误二
->>>>>>> Stashed changes
+
